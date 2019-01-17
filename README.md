@@ -1,5 +1,4 @@
-[Title]
-KasaController  
+# KasaController  
 A set of PowerShell scripts to manage TP-Link Kasa devices.  
   
 ## Details
